@@ -7,6 +7,8 @@ Developed an advanced deep learning model for MRI-based brain tumor classificati
 
 
 ## 📂 Project Files
+- [Data Integration](./dataset_integration.ipynb)
+  This Notebook contains how data is integrated and stored.
 - [Project Notebook](./BrainTumor_Classification.ipynb)  
   The Jupyter Notebook contains the complete code for training and evaluating the CNN-SVM model.
 
